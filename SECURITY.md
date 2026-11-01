@@ -2,7 +2,7 @@
 
 ## Reporting a vulnerability
 
-please do not open public issues for vulnerabilities.
+Please do not open public issues for vulnerabilities.
 
 Report privately through GitHub private vulnerability reporting: open the affected repository, go to the Security tab and choose "Report a vulnerability". The direct link is:
 
@@ -22,8 +22,8 @@ If that button is not available for a repository, open an issue asking for a pri
 - the latest release of the bot
 - the live website
 
-older releases are not patched.
+Older releases are not patched.
 
 ## What to expect
 
-this is a small project maintained on a best-effort basis. Reports are acknowledged and handled in the private advisory thread. We coordinate disclosure with the reporter and credit them if they wish.
+This is a small project maintained on a best-effort basis. Reports are acknowledged and handled in the private advisory thread. We coordinate disclosure with the reporter and credit them if they wish.
